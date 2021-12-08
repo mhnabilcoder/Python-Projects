@@ -1,2 +1,2 @@
 # Python-Projects
-All my python related projects are here
+All My Small Python Related Projects Are Here
